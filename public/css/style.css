@@ -1,0 +1,21 @@
+@import "loader.css";
+@import "view.css";
+.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.style1 {
+	color: #0099CC
+}
+.style2 {
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #0099CC; 
+}
+.style3 {
+font-size: 12px; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style5 {
+font-size: 12px
+}
